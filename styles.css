@@ -19,13 +19,37 @@ body {
 }
 
 #op1 {
-  box-shadow: 5px 2px 4px color(srgb black black black);
+  font-size: 1.25em;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, 1);
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+  color: rgb(0, 0, 0);
+  background-color: rgba(24, 78, 109, 0.877);
+  border-radius: 5px;
 }
 
 #operacion {
-  box-shadow: 5px 2px 4px color(srgb black black black);
+  font-size: 1.25em;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, 1);
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+  color: rgb(0, 0, 0);
+  background-color: rgba(24, 78, 109, 0.877);
+  border-radius: 5px;
 }
 
 #op2 {
-  box-shadow: 5px 2px 4px color(srgb black black black);
+  font-size: 1.25em;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, 1);
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+  color: rgb(0, 0, 0);
+  background-color: rgba(24, 78, 109, 0.877);
+  border-radius: 5px;
 }
